@@ -1,0 +1,12 @@
+{
+  "name": "chronicles-of-fate",
+  "version": "1.0.0",
+  "description": "AI GM Multiplayer TRPG — Node.js + WebSocket + Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
